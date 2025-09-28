@@ -1,0 +1,101 @@
+Here’s a **structured Table of Contents** for *Building Large Scale Web Apps: A React Field Guide* (by Addy Osmani & Hassan Djirdeh), based on the outline provided in the description:
+
+---
+
+## 📑 Table of Contents
+
+### 1. **Managing Software Complexity**
+
+* Explaining Complexity
+* Root Causes of Complexity
+* A Philosophy of Software Design
+
+### 2. **Modularity**
+
+* Modules in JavaScript
+* Lazy-loading
+* Code-splitting
+
+### 3. **Performance**
+
+* Understanding How Browsers Work
+* Reducing the Cost of JavaScript
+* Rendering Patterns
+
+### 4. **Design Systems**
+
+* Coding Style Guides
+* Design Tokens
+* Component Libraries
+
+### 5. **Data Fetching**
+
+* Browser APIs & Simple HTTP Clients
+* Advanced Data-fetching Libraries
+* Tips for Efficient Data Fetching
+
+### 6. **State Management**
+
+* Managing Data Between Components
+* Simple State Management
+* Dedicated State Management Libraries
+
+### 7. **Internationalization (i18n)**
+
+* Third-party Localization Libraries
+* Formatting Dates, Times, and Numbers
+* Right-to-left (RTL) Languages
+
+### 8. **Organizing Code**
+
+* Folder and File Structure
+* Naming Conventions
+* Barrel Exports
+
+### 9. **Personalization & A/B Testing**
+
+* Personalization
+* A/B Testing
+* Feature Flags
+
+### 10. **Scalable Web Architecture**
+
+* Scalable Applications
+* Kubernetes & Docker
+* Vercel & Netlify
+
+### 11. **Testing**
+
+* Unit, Integration, and End-to-End Tests
+* Snapshot Testing
+* How Should We Test Our Apps?
+
+### 12. **Tooling**
+
+* Version Control & CI
+* Bundlers
+* Logging & Performance Monitoring
+
+### 13. **Technical Migrations**
+
+* Different Migration Strategies
+* Codemods
+* The Role of Generative AI
+
+### 14. **TypeScript**
+
+* React & TypeScript
+* Autogenerating Types from an API
+* Migrating a React App to TypeScript
+
+---
+
+📌 **Upcoming Chapters (in updates):**
+
+* Routing
+* User-centric API Design
+* React in 2024
+
+---
+
+Would you like me to also **map these chapters against real-world developer pain points** (e.g., "Chapter 6: State Management → avoids prop drilling and complexity") so you see how each chapter solves a scaling challenge?
